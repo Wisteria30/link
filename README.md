@@ -1,7 +1,14 @@
 # リンク集
+ブックマークするほどではないけれど、何度も見返したり残しておきたかったりするリンクを残したリンク集
+
 
 # 低レイヤ
 - [計算機プログラムの構造と解釈](https://sicp.iijlab.net/fulltext/xcont.html)
+
+# 環境
+## fswatch
+- [Repository](https://github.com/emcrisostomo/fswatch)
+- [自動コミット](https://qiita.com/yusanish/items/24075e5b2fb5536ae7c1)
 
 # 機械学習
 ## 環境構築
