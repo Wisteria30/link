@@ -10,6 +10,10 @@
 - [Repository](https://github.com/emcrisostomo/fswatch)
 - [自動コミット](https://qiita.com/yusanish/items/24075e5b2fb5536ae7c1)
 
+# Python
+- [note.nkmk.me](https://note.nkmk.me/)
+- [pyenv + Homebrew + readline Error](https://qiita.com/hidekuro/items/546a7945b0ce566a80ee)
+
 # 機械学習
 ## 環境構築
 - [VsCode + Jupyter + pyenv Error](https://github.com/microsoft/vscode-python/issues/4013)
