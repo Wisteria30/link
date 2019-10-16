@@ -1,4 +1,8 @@
 # リンク集
+
+# 低レイヤ
+- [計算機プログラムの構造と解釈](https://sicp.iijlab.net/fulltext/xcont.html)
+
 # 機械学習
 ## 環境構築
 - [VsCode + Jupyter + pyenv Error](https://github.com/microsoft/vscode-python/issues/4013)
