@@ -13,7 +13,7 @@
 - [fswatch Repository](https://github.com/emcrisostomo/fswatch)
 - [fswatch 自動コミット](https://qiita.com/yusanish/items/24075e5b2fb5536ae7c1)
 - [vimium](https://qiita.com/satoshi03/items/9fdfcd0e46e095ec68c1)
-
+- [Docker コマンドチートシート](https://qiita.com/wMETAw/items/34ba5c980e2a38e548db)
 
 # Python
 - [note.nkmk.me](https://note.nkmk.me/)
@@ -30,6 +30,9 @@
 ## GitHub
 - [albumentations fast image augmentation library and easy to use wrapper around other libraries](https://github.com/albu/albumentations)
 - [Data Analysis Cheat Sheet](https://github.com/wataru-match/Data-Analysis-Cheat-Sheet)
+
+# レポート
+- [LaTeX 数式](http://easy-copy-mathjax.xxxx7.com/)
 
 # その他
 - [JavaScript小史](https://speakerdeck.com/badatmath/javascript)
