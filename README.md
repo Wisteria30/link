@@ -7,6 +7,8 @@
 - [@line/bot-sdkとbody-parserの競合回避](https://qiita.com/kmats/items/2c2502cfa3a633e7e049)
 - [タッチパネルのピンチズームを無効化する](https://qiita.com/SHiMPEi_THE_END/items/0239ca5d5b6ee9435305)
 - [タッチイベントとマウスイベント](https://app.codegrid.net/entry/touch-mouse)
+- [JavaScriptでUserAgentを使った判別をする](http://cly7796.net/wp/javascript/make-a-determination-using-the-useragent-in-javascript/)
+
 
 # Rocket.Chat
 - [Rocket.Chat Asking for help](https://gist.github.com/reetp/a66149d5f060f260643a353ca7067a98)
