@@ -8,7 +8,7 @@
 - [タッチパネルのピンチズームを無効化する](https://qiita.com/SHiMPEi_THE_END/items/0239ca5d5b6ee9435305)
 - [タッチイベントとマウスイベント](https://app.codegrid.net/entry/touch-mouse)
 - [JavaScriptでUserAgentを使った判別をする](http://cly7796.net/wp/javascript/make-a-determination-using-the-useragent-in-javascript/)
-
+- [MacでSSH公開鍵・秘密鍵ファイルをコピーして使ったら警告がでた](http://blog.ruedap.com/2011/04/04/mac-ssh-key-copy-error)
 
 # Rocket.Chat
 - [Rocket.Chat Asking for help](https://gist.github.com/reetp/a66149d5f060f260643a353ca7067a98)
