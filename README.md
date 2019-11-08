@@ -16,6 +16,11 @@
 # PHP
 - [dockerコンテナで起動したPHPビルトインサーバにアクセスできない](http://tic40.hatenablog.com/entry/2018/03/06/080000)
 
+# AWS
+- [コマンドでAmazon Linux AMIのスペック確認](http://www.itmcreate.com/wp/archives/2757)
+- [AWS EC2 Amazon LinuxでDocker, Docker Composeをインストールする](https://qiita.com/shinespark/items/a8019b7ca99e4a30d286)
+
+
 # 低レイヤ
 - [計算機プログラムの構造と解釈](https://sicp.iijlab.net/fulltext/xcont.html)
 
@@ -24,6 +29,7 @@
 - [fswatch 自動コミット](https://qiita.com/yusanish/items/24075e5b2fb5536ae7c1)
 - [vimium](https://qiita.com/satoshi03/items/9fdfcd0e46e095ec68c1)
 - [Docker コマンドチートシート](https://qiita.com/wMETAw/items/34ba5c980e2a38e548db)
+- [duでディレクトリ・ファイル容量を調べる](https://open-groove.net/linux-command/du/)
 
 # 監視
 - [指定したファイルの更新があったらコマンドを自動実行するシェルスクリプト](http://mizti.hatenablog.com/entry/2013/01/27/204343)
@@ -53,5 +59,5 @@
 - [JavaScript小史](https://speakerdeck.com/badatmath/javascript)
 - [AI人材の育成を目的に、最大で総額1億円の2020年度給付型奨学金プログラムを設立](https://www.softbank.jp/corp/news/press/sbkk/2019/20191015_02/)
 - [AWS Educate](https://aws.amazon.com/jp/education/awseducate/)
-
+- [みらい翻訳](https://miraitranslate.com/trial/)
 
