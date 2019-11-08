@@ -47,6 +47,7 @@
 # レポート
 - [LaTeX 数式](http://easy-copy-mathjax.xxxx7.com/)
 - [Markdownで書いた実験レポートをTeX組版の美しいPDFに変換するDockerイメージを作った](https://blog.p1ass.com/posts/mdtopdf/)
+- [markdownでの画像リサイズ](https://qiita.com/shti_f/items/b819d7fd8cb79ae29687)
 
 # その他
 - [JavaScript小史](https://speakerdeck.com/badatmath/javascript)
