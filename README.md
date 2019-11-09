@@ -20,6 +20,8 @@
 - [コマンドでAmazon Linux AMIのスペック確認](http://www.itmcreate.com/wp/archives/2757)
 - [AWS EC2 Amazon LinuxでDocker, Docker Composeをインストールする](https://qiita.com/shinespark/items/a8019b7ca99e4a30d286)
 
+# VSCode
+- [VSCodeで大きなワークスペースのファイル変更を監視する](https://code.visualstudio.com/docs/setup/linux#_visual-studio-code-is-unable-to-watch-for-file-changes-in-this-large-workspace-error-enospc)
 
 # 低レイヤ
 - [計算機プログラムの構造と解釈](https://sicp.iijlab.net/fulltext/xcont.html)
