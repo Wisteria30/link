@@ -59,6 +59,9 @@
 # 論文
 - [高速で論文がバリバリ読める落合先生のフォーマットがいい感じだったのでメモ](http://lafrenze.hatenablog.com/entry/2015/08/04/120205)
 
+# Mac
+- [ディスクユーティリティでUSBメモリ消去時にエラーが発生した場合の対処法](https://ottan.xyz/disk-utility-usb-memory-error-6839/)
+
 # その他
 - [JavaScript小史](https://speakerdeck.com/badatmath/javascript)
 - [AI人材の育成を目的に、最大で総額1億円の2020年度給付型奨学金プログラムを設立](https://www.softbank.jp/corp/news/press/sbkk/2019/20191015_02/)
