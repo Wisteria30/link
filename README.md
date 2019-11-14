@@ -61,6 +61,7 @@
 
 # Mac
 - [ディスクユーティリティでUSBメモリ消去時にエラーが発生した場合の対処法](https://ottan.xyz/disk-utility-usb-memory-error-6839/)
+- [MacでVPN接続したのに繋がらないヤツちょっと来い！](https://kosukety.org/what-to-do-if-you-do-not-connect-to-vpn-connection-on-mac/)
 
 # その他
 - [JavaScript小史](https://speakerdeck.com/badatmath/javascript)
