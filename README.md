@@ -1,7 +1,7 @@
 何度も見返したり残しておきたかったりするリンク集
 
 # 開発
-- [LINE Bot 入門](https://qiita.com/nkjm/items/38808bbc97d6927837cd){:target="_blank"}
+- [LINE Bot 入門](https://qiita.com/nkjm/items/38808bbc97d6927837cd)
 - [LINE Messaging API groupId](https://qiita.com/kenichi_odo/items/18badf7c069334d9c3a2)
 - [@line/bot-sdkとbody-parserの競合回避](https://qiita.com/kmats/items/2c2502cfa3a633e7e049)
 - [タッチパネルのピンチズームを無効化する](https://qiita.com/SHiMPEi_THE_END/items/0239ca5d5b6ee9435305)
