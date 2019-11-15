@@ -56,6 +56,7 @@
 - [LaTeX 数式](http://easy-copy-mathjax.xxxx7.com/){:target="_blank"}
 - [Markdownで書いた実験レポートをTeX組版の美しいPDFに変換するDockerイメージを作った](https://blog.p1ass.com/posts/mdtopdf/){:target="_blank"}
 - [markdownでの画像リサイズ](https://qiita.com/shti_f/items/b819d7fd8cb79ae29687){:target="_blank"}
+- [Markdown：リンクを新規タブで開く方法](http://tauplank.hatenablog.com/entry/2016/11/26/095110){:target="_blank"}
 
 # 論文
 - [高速で論文がバリバリ読める落合先生のフォーマットがいい感じだったのでメモ](http://lafrenze.hatenablog.com/entry/2015/08/04/120205){:target="_blank"}
