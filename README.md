@@ -21,6 +21,7 @@
 
 # VSCode
 - [VSCodeで大きなワークスペースのファイル変更を監視する](https://code.visualstudio.com/docs/setup/linux#_visual-studio-code-is-unable-to-watch-for-file-changes-in-this-large-workspace-error-enospc){:target="_blank"}
+- [ssh接続先のdockerコンテナにVSCodeのRemote Developmentで繋ぐ](https://qiita.com/kanosawa/items/07e26edb19c86091fa48#%E6%96%B9%E6%B3%95){:target="_blank"}
 
 # 低レイヤ
 - [計算機プログラムの構造と解釈](https://sicp.iijlab.net/fulltext/xcont.html){:target="_blank"}
