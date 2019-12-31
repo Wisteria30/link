@@ -38,6 +38,7 @@
 - [duでディレクトリ・ファイル容量を調べる](https://open-groove.net/linux-command/du/){:target="_blank"}
 - [ターミナル起動時に.bashrcを読み込むようにする](http://blog.ruedap.com/2010/09/13/mac-bash-bashrc){:target="_blank"}
 - [MacでSSH公開鍵・秘密鍵ファイルをコピーして使ったら警告がでた](http://blog.ruedap.com/2011/04/04/mac-ssh-key-copy-error){:target="_blank"}
+- [fishでのevalの設定方法](https://ema-hiro.hatenablog.com/entry/20170523/1495519890)
 
 # 監視
 - [指定したファイルの更新があったらコマンドを自動実行するシェルスクリプト](http://mizti.hatenablog.com/entry/2013/01/27/204343){:target="_blank"}
